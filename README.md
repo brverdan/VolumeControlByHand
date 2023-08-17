@@ -34,5 +34,5 @@ Desenvolvida pela google essa biblioteca open-source possui várias soluções p
 Uma biblioteca para facilitação para se configurar o volume de seu computador (Windows).
 
 ## Para saber mais: 
-https://opencv.org/ 
+https://opencv.org/ </br>
 https://developers.google.com/mediapipe
